@@ -1,0 +1,23 @@
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+html{scroll-behavior:smooth;}
+body{background:#fff;color:#18181b;font-family:'Inter',sans-serif;line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden;}
+a{color:inherit;text-decoration:none;}
+img,video{display:block;max-width:100%;}
+ul{list-style:none;}
+:root{
+  --bg:#ffffff;
+  --bg-alt:#f8f5ff;
+  --dark:#080818;
+  --dark2:#12122a;
+  --purple:#6B21A8;
+  --purple-deep:#3d0070;
+  --purple-mid:#7C3AED;
+  --purple-light:#EDE9FE;
+  --purple-soft:#C4B5FD;
+  --gold:#F5C842;
+  --gold-soft:#FDE68A;
+  --text:#18181b;
+  --muted:#52525b;
+  --white:#ffffff;
+  --line:rgba(107,33,168,0.15);
+}
